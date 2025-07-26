@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Open-source contributions
+- [nav9v/online-markdown-editor](https://github.com/nav9v/online-markdown-editor): Improved PDF rendering for `h1` elements by fixing spacing bug in CSS export output. Merged [PR #3](https://github.com/nav9v/online-markdown-editor/pull/3).
+
 <!--
 **pwm-teach/pwm-teach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
